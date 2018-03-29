@@ -1,3 +1,5 @@
+# ******ANN******
+
 import tensorflow as tf
 from tensorflow.examples.tutorials.mnist import input_data
 # number 1 to 10 data,0-9?
